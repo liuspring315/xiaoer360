@@ -1,0 +1,8 @@
+用户列表 http://localhost:8080/lvpaiweb/manager/user/list
+
+用户权限 http://localhost:8080/lvpaiweb/manager/authority/users/list
+角色 http://localhost:8080/lvpaiweb/manager/authority/roles/list
+权限 http://localhost:8080/lvpaiweb/manager/authority/permissions/list
+
+
+http://stackoverflow.com/questions/18622508/bootstrap-3-and-youtube-in-modal
